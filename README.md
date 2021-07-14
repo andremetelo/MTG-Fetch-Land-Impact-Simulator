@@ -4,6 +4,6 @@ Recently I was engaged in a conversation with a friend about how impactful Fetch
 
 In order to figure out the impact, I wrote a simple C based simulator that tracks how many fetch lands, other lands and spells are drawed in a quick 6 turn game. than ran it for 100K games and different number of fetch-lands in the deck.
 
-Than adjusted the averages for a GP event, and figured out how many actual spell cards a player should expect to drawn just by thining the deck. The results were very interesting.
+Than adjusted the averages for a GP event, and figured out how many actual spell cards a player should expect to drawn just by thining the deck. The results were very interesting. Are the fetches worthy their cost solely on the thinning your deck? Even with the data, it is hard to say, as those extra cards can easily make or break your TOP 8 chances.
 
 In case you are not familiar with magic, this is the description of what a fetch land does: https://mtg.fandom.com/wiki/Fetch_land
